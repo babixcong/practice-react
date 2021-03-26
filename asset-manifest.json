@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/congnguyen-ptit/practice-react/static/css/main.f4bf0eb2.chunk.css",
-    "main.js": "/congnguyen-ptit/practice-react/static/js/main.f4162ef5.chunk.js",
-    "main.js.map": "/congnguyen-ptit/practice-react/static/js/main.f4162ef5.chunk.js.map",
-    "runtime-main.js": "/congnguyen-ptit/practice-react/static/js/runtime-main.f74402e8.js",
-    "runtime-main.js.map": "/congnguyen-ptit/practice-react/static/js/runtime-main.f74402e8.js.map",
-    "static/js/2.42b11385.chunk.js": "/congnguyen-ptit/practice-react/static/js/2.42b11385.chunk.js",
-    "static/js/2.42b11385.chunk.js.map": "/congnguyen-ptit/practice-react/static/js/2.42b11385.chunk.js.map",
-    "static/js/3.67e8dc1d.chunk.js": "/congnguyen-ptit/practice-react/static/js/3.67e8dc1d.chunk.js",
-    "static/js/3.67e8dc1d.chunk.js.map": "/congnguyen-ptit/practice-react/static/js/3.67e8dc1d.chunk.js.map",
-    "index.html": "/congnguyen-ptit/practice-react/index.html",
-    "static/css/main.f4bf0eb2.chunk.css.map": "/congnguyen-ptit/practice-react/static/css/main.f4bf0eb2.chunk.css.map",
-    "static/js/2.42b11385.chunk.js.LICENSE.txt": "/congnguyen-ptit/practice-react/static/js/2.42b11385.chunk.js.LICENSE.txt"
+    "main.css": "/practice-react/static/css/main.f4bf0eb2.chunk.css",
+    "main.js": "/practice-react/static/js/main.f4162ef5.chunk.js",
+    "main.js.map": "/practice-react/static/js/main.f4162ef5.chunk.js.map",
+    "runtime-main.js": "/practice-react/static/js/runtime-main.5a43ae01.js",
+    "runtime-main.js.map": "/practice-react/static/js/runtime-main.5a43ae01.js.map",
+    "static/js/2.42b11385.chunk.js": "/practice-react/static/js/2.42b11385.chunk.js",
+    "static/js/2.42b11385.chunk.js.map": "/practice-react/static/js/2.42b11385.chunk.js.map",
+    "static/js/3.67e8dc1d.chunk.js": "/practice-react/static/js/3.67e8dc1d.chunk.js",
+    "static/js/3.67e8dc1d.chunk.js.map": "/practice-react/static/js/3.67e8dc1d.chunk.js.map",
+    "index.html": "/practice-react/index.html",
+    "static/css/main.f4bf0eb2.chunk.css.map": "/practice-react/static/css/main.f4bf0eb2.chunk.css.map",
+    "static/js/2.42b11385.chunk.js.LICENSE.txt": "/practice-react/static/js/2.42b11385.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f74402e8.js",
+    "static/js/runtime-main.5a43ae01.js",
     "static/js/2.42b11385.chunk.js",
     "static/css/main.f4bf0eb2.chunk.css",
     "static/js/main.f4162ef5.chunk.js"
